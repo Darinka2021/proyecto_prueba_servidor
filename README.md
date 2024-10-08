@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -69,4 +68,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # proyecto_prueba_servidor
 esta es una prueba de conexion para laravel en railway
 crearemos primero el proyecto y luego realizaremos la carga en el servidor creando un dominio para visualizar
->>>>>>> 70e16993ed0d41a927c6f7413bb5297388e2e8d5
